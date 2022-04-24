@@ -8705,6 +8705,10 @@ var app = (function () {
             url: "https://soundcloud.com/kandy-34005168/spquy8gn4ojj",
             answer: "Cantabile - WJSN",
           },
+          {
+            url: "https://soundcloud.com/sidratul-muntaha-744423162/wjsn-navillera",
+            answer: "Navillera - WJSN (Queendom 2)",
+          }
         ],
         Pn
       ).subscribe,
