@@ -1,4 +1,4 @@
-# osuheardle
+# osu! heardle
 
 A clone of [Heardle](https://www.heardle.app/), and [K-Pop Heardle](https://heardle-kpop.glitch.me/) but for osu! songs.
 
@@ -7,8 +7,10 @@ Each osu! Heardle is randomly chosen from osu!'s discography.
 code edited from: [WJSN Heardle](https://github.com/haseul/wjsn-heardle)
 <br />
 <br />
-HOW TO MAKE YOUR OWN HEARDLE (UDPATED on **4/28/22**)
 
+<details>
+  <summary>How to make your own Heardle</summary>
+  
 1. Remix this project to create your own copy of the code
 2. Rename the project with the URL that you'd like to Heardle to live at, by going to Settings > Edit Project Details
 3. Open the **index.html** file & replace **"osu!"** with the artist/genre of your heardle
@@ -41,13 +43,12 @@ Glitch auto saves your code, so your changes should be available as soon as the 
 Heardle sometimes doesnt work in the "Open Preview Pane" option, so it's best view it in the "Preview in new window" option
 <br />
 <br />
-
-Feel free to tweet/dm me @dazebh on twitter if you have any issues/questions!
-<br />
-<br />
 **KNOWN ISSUES**
 
 - Sometimes when you share your link to twitter, the image you added doesnt show up, even if you've updated the image link. I think its a twitter issue and not a code issue.
 - For some songs, the timer on the player goes to 9 seconds instead of 16, and skips in intervals of 1.5 seconds instead of 1, 2, 3.. seconds each time.
   I'm not sure why it happens, but it has something to do with the soundcloud links, so if anyone has any insight into why that happens, let me know!
 - Youtube/Spotify links dont work yet, the code is specific to Soundcloud links. I'm attempting to make a youtube/soundcloud version and if I ever finish it, I'll update this!
+</details>
+
+
